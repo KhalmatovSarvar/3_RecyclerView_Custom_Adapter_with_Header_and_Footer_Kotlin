@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/3_RecyclerView_Custom_Adapter_with_Header_and_Footer_Kotlin/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/3_RecyclerView_Custom_Adapter_with_Header_and_Footer_Kotlin/app/src/main/res/layout/item_custom_view_footer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/3_RecyclerView_Custom_Adapter_with_Header_and_Footer_Kotlin/app/src/main/res/layout/item_custom_view_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/3_RecyclerView_Custom_Adapter_with_Header_and_Footer_Kotlin/app/src/main/res/layout/item_custom_view_no.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/3_RecyclerView_Custom_Adapter_with_Header_and_Footer_Kotlin/app/src/main/res/layout/item_custom_view_yes.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
